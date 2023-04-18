@@ -2,11 +2,11 @@
 Manufacturing overview in Mexico
 
 -Unleash potential manufacturing
-Crime rates
+(Crime rates)
 
 -Thinkg big
-Income by state
-Crime rates by state
+(Income by state,
+Crime rates by state)
 
 -As one TMEC
-Canada KC South Pacific railroad
+(Canada KC South Pacific railroad)
